@@ -1,2 +1,7 @@
 # fall20-cerenozkann
-fall20-cerenozkann created by GitHub Classroom
+
+Progress Journal
+
+Homework 1:
+
+[Here](files/Homework1-HTML.html) is my first assignment. It is not perfect, but I hope you enjoy my work!
