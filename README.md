@@ -12,4 +12,4 @@ Comments and results for 3rd Assignment can be found [here](files/Homework-3.htm
 
 ASSIGNMENT 4: 
 
-[here](files/HW4.html) is the report for Assignment 4. Used data are also uploaded.
+[Here](files/HW4.html) is the report for Assignment 4. Used data are also uploaded.
