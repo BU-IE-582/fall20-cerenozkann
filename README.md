@@ -13,3 +13,7 @@ Comments and results for 3rd Assignment can be found [here](files/Homework-3.htm
 ASSIGNMENT 4: 
 
 [Here](files/HW4.html) is the report for Assignment 4. Used data are also uploaded.
+
+FINAL
+
+[Here](files/IE582-Final.html) is the Final Report. Comments, methods and codes for the final exam can be found.
