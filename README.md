@@ -18,4 +18,4 @@ PROJECT:
 
 [Here](files/Project.html) is the HTML file of the codes for the project.
 
-[Here](Project.pdf) is the report for the project.
+[Here](IE582Report.pdf) is the report for the project.
